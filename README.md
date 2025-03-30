@@ -1,0 +1,2 @@
+# cli
+Glossia's CLI
