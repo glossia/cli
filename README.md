@@ -1,2 +1,3 @@
-# cli
-Glossia's CLI
+# CLI
+
+This repository contains Glossia's CLI powered by Go.
